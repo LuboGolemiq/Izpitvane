@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Изпит\IzpitnaZadacha\bin\Debug\net8.0\IzpitnaZadacha.exe
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Изпит\IzpitnaZadacha\bin\Debug\net8.0\IzpitnaZadacha.deps.json
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Изпит\IzpitnaZadacha\bin\Debug\net8.0\IzpitnaZadacha.runtimeconfig.json
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Изпит\IzpitnaZadacha\bin\Debug\net8.0\IzpitnaZadacha.dll
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Изпит\IzpitnaZadacha\bin\Debug\net8.0\IzpitnaZadacha.pdb
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Изпит\IzpitnaZadacha\obj\Debug\net8.0\IzpitnaZadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Изпит\IzpitnaZadacha\obj\Debug\net8.0\IzpitnaZadacha.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Изпит\IzpitnaZadacha\obj\Debug\net8.0\IzpitnaZadacha.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Изпит\IzpitnaZadacha\obj\Debug\net8.0\IzpitnaZadacha.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Изпит\IzpitnaZadacha\obj\Debug\net8.0\IzpitnaZadacha.dll
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Изпит\IzpitnaZadacha\obj\Debug\net8.0\refint\IzpitnaZadacha.dll
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Изпит\IzpitnaZadacha\obj\Debug\net8.0\IzpitnaZadacha.pdb
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Изпит\IzpitnaZadacha\obj\Debug\net8.0\IzpitnaZadacha.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-8\Desktop\Lubo9A\Изпит\IzpitnaZadacha\obj\Debug\net8.0\ref\IzpitnaZadacha.dll
